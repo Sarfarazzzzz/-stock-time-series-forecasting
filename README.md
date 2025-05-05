@@ -78,6 +78,4 @@ APPENDIX:
 CONTACT:
 --------
 Mohammed Ismail Sarfaraz Shaik
-Graduate Student, Data Science
-The George Washington University
 Email: m.shaik@gwu.edu
